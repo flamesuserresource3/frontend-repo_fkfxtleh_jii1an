@@ -2,7 +2,6 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import Features from './components/Features';
 import USSDLikeActions from './components/USSDLikeActions';
-import Footer from './components/Footer';
 
 function App() {
   return (
@@ -13,7 +12,6 @@ function App() {
         <USSDLikeActions />
         <Features />
       </main>
-      <Footer />
     </div>
   );
 }
